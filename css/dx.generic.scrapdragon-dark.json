@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "key": "$base-text-color",
+            "value": "rgba(255, 255, 255, 1)"
+        },
+        {
+            "key": "$base-accent",
+            "value": "rgba(57, 189, 34, 1)"
+        },
+        {
+            "key": "$badge-bg",
+            "value": "rgba(240, 133, 87, 1)"
+        }
+    ],
+    "baseTheme": "generic.dark",
+    "outputColorScheme": "scrapdragon-dark",
+    "makeSwatch": true,
+    "version": "24.2.3",
+    "widgets": [],
+    "removeExternalResources": true
+}

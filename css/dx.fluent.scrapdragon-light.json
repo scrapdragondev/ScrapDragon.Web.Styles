@@ -1,0 +1,18 @@
+{
+    "items": [
+        {
+            "key": "$base-accent",
+            "value": "rgba(70, 114, 73, 1)"
+        },
+        {
+            "key": "$badge-bg",
+            "value": "rgba(240, 133, 87, 1)"
+        }
+    ],
+    "baseTheme": "fluent.blue.light",
+    "outputColorScheme": "scrapdragon-light",
+    "makeSwatch": true,
+    "version": "24.2.3",
+    "widgets": [],
+    "removeExternalResources": true
+}
