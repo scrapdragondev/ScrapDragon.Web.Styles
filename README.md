@@ -26,6 +26,16 @@ Exported styles should follow the naming pattern:
 
 ## 📌 Usage
 To use a theme in your ScrapDragon Web application, include the CSS file in your HTML:
-
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/scrapdragondev/ScrapDragon.Web.Styles@main/css/dx.fluent.scrapdragon-dark.css">
+```
+
+## 📂 Icons
+This repository also includes a set of icons located in the `icons/` folder.
+
+### 🔹 How to Use the Icons:
+Since browsers may block cross-origin requests for images in CSS (when using a CDN), it's recommended to **copy the `icons/` folder into your own project** and reference them locally.
+
+### 📥 Steps to Copy Icons:
+1. Download the `icons/` folder from the repository.
+2. Place it inside your project's **public assets** folder (e.g., `/wwwroot/icons/` for .NET projects).
